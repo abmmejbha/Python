@@ -1,0 +1,3 @@
+class car:
+    brand = "toyota"
+    
