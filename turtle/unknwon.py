@@ -1,7 +1,7 @@
 import turtle as t
 
 # screen settings
-width, height = 1600, 900
+width, height = 1000, 500
 screen = t.Screen()
 s = screen
 s.setup(width,height)
